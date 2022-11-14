@@ -1,2 +1,2 @@
 # JaviBank
-Proyecto realizado en el 2021. Consiste en un sistema bancario realizado en java. Se utiliza la programación orientada a objetos y se empiezan a implementar buenas practicas de programación.
+Project carried out in 2021. It consists of a banking system made in Java. Object-oriented programming is used and good programming practices begin to be implemented. Project already finished.
